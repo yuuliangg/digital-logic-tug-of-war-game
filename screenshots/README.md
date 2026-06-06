@@ -3,7 +3,6 @@
 These screenshots were extracted from the project presentation and used as visual evidence for the GitHub case study.
 
 Included:
-- Project overview
 - Game mechanics
 - Main logic schematic screenshot
 - Counter/display schematic screenshot
