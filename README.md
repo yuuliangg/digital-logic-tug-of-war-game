@@ -55,7 +55,6 @@ digital-logic-tug-of-war-game/
 │   └── 05-testing-and-troubleshooting.png
 ├── docs/
 │   ├── project_explanation.md
-│   ├── resume_bullets.md
 │   └── troubleshooting_notes.md
 └── presentation/
     └── README.md
